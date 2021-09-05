@@ -1,0 +1,25 @@
+{
+  "name": "punish-keeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azisaba/Punish-Keeper"
+  },
+  "author": "huda0209",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azisaba/Punish-Keeper/issues"
+  },
+  "homepage": "https://github.com/azisaba/Punish-Keeper",
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
